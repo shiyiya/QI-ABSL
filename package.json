@@ -1,0 +1,21 @@
+{
+  "name": "qi-absl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build script.js -d ./ --out-file script.min.js --no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyiya/QI-ABSL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiyiya/QI-ABSL/issues"
+  },
+  "homepage": "https://github.com/shiyiya/QI-ABSL#readme"
+}
